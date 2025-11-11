@@ -17,7 +17,7 @@ Proyecto educativo que muestra cómo configurar **Jest** con **TypeScript** y **
 
 ```bash
 # 1. Crear carpeta del proyecto
-git clone <repo-url> jest-todo-app
+git clone https://github.com/britezmilu0/unidad6_test_tpl4.git jest-todo-app
 cd jest-todo-app
 
 # 2. Instalar dependencias
